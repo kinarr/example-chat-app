@@ -19,6 +19,8 @@
 
 ## Intro
 
+Test
+
 This example app lets the user chat with the Gemini API and use it as a personal
 AI assistant. The app supports text-only chat in two modes: non-streaming and
 streaming.
