@@ -70,6 +70,7 @@ def chat():
 
     return {"text": response.text}
 
+# Test
 @app.route("/stream", methods=["POST"])
 def stream():
     """Streams AI responses for real-time chat interactions.
